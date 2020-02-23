@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to MMCar
 
-You can use the [editor on GitHub](https://github.com/ssskinfkin/MMCar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Regardless of age, many people have a dream car in their hearts. 
 
-### Markdown
+You may be attracted by its shape,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+it may be attracted by its color, 
 
-```markdown
-Syntax highlighted code block
+or it may be attracted by its superior performance. 
 
-# Header 1
-## Header 2
-### Header 3
+You can store it on your phone so you can see it when you think about it
 
-- Bulleted
-- List
+### Contact us:LouBaldwintReZa@yahoo.com
 
-1. Numbered
-2. List
+Thank you!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssskinfkin/MMCar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
